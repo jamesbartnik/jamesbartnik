@@ -1,6 +1,4 @@
 # Hey, I'm James 👋
-
-## About Me
 I'm a software developer based out of Vancouver, Canada. With a strong background in full-stack development, I enjoy working on both the frontend and backend of applications.
 
 ## Skills and Technologies
